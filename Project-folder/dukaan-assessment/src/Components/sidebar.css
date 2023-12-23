@@ -1,0 +1,15 @@
+.sidebar {
+  width: 224px;
+  height: 882px;
+  background-color: rgb(30, 38, 64);
+}
+.sidebar-btn {
+  width: 200px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
